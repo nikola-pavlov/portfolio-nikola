@@ -89,15 +89,15 @@ replayLogo();
     {
       id: 2, tab: 'social', type: 'image', aspect: 'portrait',
       src: [
-        'visuals/kina/kina00.jpg',
-        'visuals/kina/kina01.png',
-        'visuals/kina/kina02.png',
-        'visuals/kina/kina03.png',
-        'visuals/kina/kina04.png',
-        'visuals/kina/kina05.png',
-        'visuals/kina/kina06.png',
-        'visuals/kina/kina07.png',
-        'visuals/kina/kina08.png',
+        'visuals/kina/Kina00.jpg',
+        'visuals/kina/Kina01.png',
+        'visuals/kina/Kina02.png',
+        'visuals/kina/Kina03.png',
+        'visuals/kina/Kina04.png',
+        'visuals/kina/Kina05.png',
+        'visuals/kina/Kina06.png',
+        'visuals/kina/Kina07.png',
+        'visuals/kina/Kina08.png',
       ],
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
@@ -158,8 +158,8 @@ replayLogo();
     {
       id: 7, tab: 'social', type: 'image', aspect: 'portrait',
       src: [
-        'visuals/viber/viber.jpg',
-        'visuals/viber/whatsapp.jpg',
+        'visuals/viber/Viber.jpg',
+        'visuals/viber/WhatsApp.jpg',
       ],
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
@@ -208,7 +208,7 @@ replayLogo();
     },
     {
       id: 15, tab: 'social', type: 'image', aspect: 'portrait',
-      src: ['visuals/hrg01.jpg'],
+      src: ['visuals/Hrg01.jpg'],
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
     },
@@ -218,6 +218,14 @@ replayLogo();
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
     },
+
+    {
+      id: 23, tab: 'social', type: 'image', aspect: 'square',
+      src: ['visuals/blog.jpg'],
+      title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
+      link: ''
+    },
+
     {
       id: 17, tab: 'social', type: 'image', aspect: 'portrait',
       src: ['visuals/1+1.jpg'],
@@ -280,7 +288,7 @@ replayLogo();
     },
     {
       id: 27, tab: 'social', type: 'image', aspect: 'portrait',
-      src: ['visuals/bodrumleto.jpg'],
+      src: ['visuals/BodrumLeto.jpg'],
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
     },
@@ -512,6 +520,14 @@ replayLogo();
       title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
       link: ''
     },
+
+    {
+      id: 70, tab: 'social', type: 'image', aspect: 'square',
+      src: ['visuals/champs.jpg'],
+      title: 'Social Media Post', tag: 'Social Post', meta: 'Instagram',
+      link: ''
+    },
+
     {
       id: 66, tab: 'social', type: 'image', aspect: 'story',
       src: ['visuals/ig.jpg'],
@@ -569,7 +585,7 @@ replayLogo();
     },
     {
       id: 104, tab: 'video', type: 'video', aspect: 'story',
-      src: 'visuals/desertdays.jpg',
+      src: 'visuals/desertdays.JPG',
       title: 'Video Post', tag: 'Video / Reel', meta: 'Instagram / TikTok',
       link: 'https://www.instagram.com/reel/DTIjd7qjNcr/'
     },
